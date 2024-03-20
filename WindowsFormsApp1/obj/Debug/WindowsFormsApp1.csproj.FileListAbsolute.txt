@@ -1,0 +1,20 @@
+C:\Users\305-2\Desktop\Никитенко ПР-22\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\305-2\Desktop\Никитенко ПР-22\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\305-2\Desktop\Никитенко ПР-22\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\305-2\Desktop\Никитенко ПР-22\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\305-2\Desktop\Никитенко ПР-22\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\305-2\Desktop\Никитенко ПР-22\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\305-2\Desktop\Никитенко ПР-22\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\305-2\Desktop\Никитенко ПР-22\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\305-2\Desktop\Никитенко ПР-22\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\305-2\Desktop\Никитенко ПР-22\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Колледж\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Колледж\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Колледж\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Колледж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Колледж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Колледж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Колледж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Колледж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Колледж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Колледж\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
